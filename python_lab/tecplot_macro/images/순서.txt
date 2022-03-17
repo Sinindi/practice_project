@@ -1,0 +1,13 @@
+1 open.png누르기0
+2 파일이름(file_name.png) 오른쪽에 파일명 적고 open_button.png누르기d0
+3 frame.png누르고 load_frame.png누르기
+4 file_opne.png누르기
+5 file.png누르고 export.png 누르기
+6 OK.png누르기
+7 파일이름 오른쪽에 파일명 적고 save.png누르기
+8 new.png누르기
+9 discard누르기
+반복
+
+
+반복문 활용 선택한 파일 수 만큼 len(files) or list_file.size()
